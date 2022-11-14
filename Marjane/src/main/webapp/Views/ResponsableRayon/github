@@ -1,0 +1,26 @@
+src/main/resources/hibernate.cfg.xml
+        src/main/webapp/Assets/
+        src/main/webapp/Views/Admin/CategorieAdmin.jsp
+        src/main/webapp/Views/Admin/CreateResponsableRayon.jsp
+        src/main/webapp/Views/Admin/LoginAdmin.jsp
+        src/main/webapp/Views/Admin/ProduitAdmin.jsp
+        src/main/webapp/Views/Admin/SidebarAdmin.jsp
+        src/main/webapp/Views/Global/Categorie.jsp
+        src/main/webapp/Views/Global/Footer.jsp
+        src/main/webapp/Views/Global/Produit.jsp
+        src/main/webapp/Views/Global/Sidebar.jsp
+        src/main/webapp/Views/ResponsableRayon/LoginResponsableRayon.jsp
+        src/main/webapp/Views/ResponsableRayon/github
+        src/main/webapp/Views/ResponsableRayon/sidebar.jsp
+        src/main/webapp/Views/SuperAdmin/Admin/
+        src/main/webapp/Views/SuperAdmin/CategorieSuperAdmin.jsp
+        src/main/webapp/Views/SuperAdmin/CenterAdmin.jsp
+        src/main/webapp/Views/SuperAdmin/CreateAdmin.jsp
+        src/main/webapp/Views/SuperAdmin/LoginSuperAdmin.jsp
+        src/main/webapp/Views/SuperAdmin/ProduitSuperAdmin.jsp
+        src/main/webapp/Views/SuperAdmin/all-centers.jsp
+        src/main/webapp/Views/SuperAdmin/index.jsp
+        src/main/webapp/Views/index.jsp
+
+
+
